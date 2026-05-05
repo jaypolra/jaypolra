@@ -6,7 +6,7 @@ I work on computer vision, multimodal AI, spatial audio, explainable AI, and res
 ## Projects
 
 - [geometry-grounded-nvas](https://github.com/jaypolra/geometry-grounded-nvas) - CVPR 2026 Workshop research code for visual-geometry-grounded novel-view acoustic synthesis.
-- [vlm-explainer](https://github.com/jaypolra/vlm-explainer) - Explaining how vision-language models connect image patches to generated phrases.
+- [vlm-explainer](https://github.com/jaypolra/vlm-explainer) - Streamlit tool for interpreting pretrained BLIP captions with token Grad-CAM, patch masking, and CLIP alignment checks.
 - [ai-hazard-recognition](https://github.com/jaypolra/ai-hazard-recognition) - Applied computer vision project for AI-assisted hazard recognition.
 - [candidate-matcher](https://github.com/jaypolra/candidate-matcher) - ATS-style resume ranking app using MiniLM embeddings, cosine similarity, and LLM-generated recruiter summaries.
 - [jp2501.github.io](https://github.com/jaypolra/jp2501.github.io) - Personal academic website and portfolio.
