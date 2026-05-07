@@ -18,7 +18,7 @@
 
 ## About
 
-I build research software that connects perception, reasoning, and practical decision support in real-world environments.
+I like turning research ideas into working systems: models, interfaces, evaluation scripts, and the little engineering details that make a project usable.
 
 My work spans computer vision, multimodal learning, spatial audio, vision-language models, explainable AI, and industrial safety systems. I like projects where the model is only one part of the problem: the full system also has to handle messy inputs, evaluation, deployment constraints, and a user who needs to trust the output.
 
@@ -38,7 +38,7 @@ Currently, my research at **CIVS, Purdue University Northwest** focuses on visua
 
 ---
 
-## Technical Stack
+## Tools I Work With
 
 **Research & Modeling**  
 `PyTorch` · `Hugging Face Transformers` · `OpenCV` · `Ultralytics YOLO` · `DeepSORT` · `BLIP` · `CLIP` · `VGGT`
